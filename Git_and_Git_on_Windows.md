@@ -4,7 +4,7 @@
 
 ### 设计图
 
-![多么黑暗](1.png)
+![多么黑暗](images/prehistory_version_control.png)
 
 ### 代码
 
@@ -19,9 +19,9 @@
 
 ## 优雅的现代
 
-![安卓手机站commit记录](android_git_commit.png)
+![安卓手机站commit记录](images/android_git_commit.png)
 
-![安卓手机站git diff记录](android_git_diff.png)
+![安卓手机站git diff记录](images/android_git_diff.png)
 
 # What
 
@@ -57,7 +57,7 @@ Git Shell
 
 ### 分支模型图
 
-![一个成功的分支模型](git_branch.png)
+![一个成功的分支模型](images/git_branch.png)
 
-![安卓手机站分支模型](android_git_branch_network.png)
+![安卓手机站分支模型](images/android_git_branch_network.png)
 
