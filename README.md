@@ -18,6 +18,6 @@
 
 ## 目录
 
-* [总论](general.md)
+* [总论](General.md)
 * [Windows下LAMP环境的搭建](Windows_LAMP.md)
 * [Git版本控制及在Windows下使用Git](Git_and_Git_on_Windows.md)
